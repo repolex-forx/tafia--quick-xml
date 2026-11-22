@@ -1,0 +1,11 @@
+{
+  "org": "tafia",
+  "repo": "quick-xml",
+  "versions": [
+    {
+      "commit": "5611c894f6b9fd5301c266167a6d3a7ef005dedd",
+      "tag": "v0.39.2",
+      "parsed_at": "2026-11-22T05:52:54.896267+00:00"
+    }
+  ]
+}
