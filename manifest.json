@@ -275,7 +275,9 @@
           "githubUrl": "https://github.com/tokio-rs/tokio",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/5611c894f6b9fd5301c266167a6d3a7ef005dedd/chunk-001.nq.gz",
+      "dep": "dep/5611c894f6b9fd5301c266167a6d3a7ef005dedd.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
